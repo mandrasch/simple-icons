@@ -17,7 +17,7 @@ Simple Icons asks that its users read this disclaimer fully before including an 
 
 Simple Icons provides data on the license under which icons are available. We ask users to carefully consider this when using an icon. As licenses are subject to change we also ask our users to regularly check if the license of the icons they use have been changed.
 
-The license under which an icon is available can be found in the icon's entry in the JSON data file in the NPM and Packagist packages, or through the license link on the icon's card on [the Simple Icons website].
+The license under which an icon is available can be found in the icon's entry in the JSON data file in the NPM and Packagist packages, or through the license link on the icon's card on [the Simple Icons website]. See e.g. [OCaml icon card].
 
 As we rely largely on our community to help us keep Simple Icons up-to-date, the license data for an icon may be outdated. If you find that the license data provided is outdated, please [submit an issue][icon-outdated-issues] to [the Simple Icons GitHub repository].
 
@@ -49,3 +49,4 @@ Should a brand wish for their icon to be removed from the package, contact `remo
 [the simple icons contributing guidelines]: https://github.com/simple-icons/simple-icons/blob/develop/CONTRIBUTING.md#icon-guidelines
 [the simple icons github repository]: https://github.com/simple-icons/simple-icons
 [the simple icons website]: https://simpleicons.org/
+[OCaml icon card]: https://simpleicons.org/?q=ocaml
